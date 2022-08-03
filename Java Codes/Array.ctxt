@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Array
+comment1.params=nn\ cc1\ cc2\ cc3
+comment1.target=Array(int,\ char,\ char,\ char)
+comment2.params=
+comment2.target=void\ create()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

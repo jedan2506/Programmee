@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Plane
+comment1.params=nx\ ny
+comment1.target=Plane(int,\ int)
+comment2.params=
+comment2.target=void\ Show()
+numComments=3

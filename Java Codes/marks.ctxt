@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=marks
+comment1.params=j
+comment1.target=marks(int)
+comment2.params=
+comment2.target=void\ readdata()
+comment3.params=
+comment3.target=void\ compute()
+comment4.params=
+comment4.target=void\ inputdata()
+comment5.params=
+comment5.target=void\ printdata()
+comment6.params=j
+comment6.target=void\ showdata(int)
+comment7.params=
+comment7.target=void\ main()
+numComments=8

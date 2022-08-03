@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Circular
+comment1.params=nn
+comment1.target=Circular(int)
+comment2.params=
+comment2.target=java.lang.String\ word()
+comment3.params=s
+comment3.target=void\ prime(java.lang.String)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

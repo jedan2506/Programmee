@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=tions
+comment1.params=i1\ i2
+comment1.target=tions(int,\ int)
+comment2.params=
+comment2.target=void\ cal()
+comment3.params=
+comment3.target=void\ print()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

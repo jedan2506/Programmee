@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Mathe
+comment1.params=nn1\ nn2
+comment1.target=Mathe(int,\ int)
+comment2.params=
+comment2.target=void\ calculate()
+comment3.params=
+comment3.target=void\ display()
+numComments=4

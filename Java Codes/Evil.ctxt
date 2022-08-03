@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Evil
+comment1.params=nn
+comment1.target=Evil(int)
+comment2.params=
+comment2.target=java.lang.String\ binary()
+comment3.params=st
+comment3.target=java.lang.String\ reverse(java.lang.String)
+comment4.params=st
+comment4.target=int\ count(java.lang.String)
+comment5.params=
+comment5.target=void\ main()
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Mersenne
+comment1.params=nn
+comment1.target=Mersenne(int)
+comment2.params=
+comment2.target=void\ single()
+comment3.params=
+comment3.target=void\ doubles()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

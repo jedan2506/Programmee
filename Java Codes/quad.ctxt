@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=quad
+comment1.params=aa\ bb\ cc
+comment1.target=quad(float,\ float,\ float)
+comment2.params=
+comment2.target=float\ discriminant()
+comment3.params=
+comment3.target=void\ root_equal()
+comment4.params=
+comment4.target=void\ image()
+comment5.params=
+comment5.target=void\ root_real()
+comment6.params=
+comment6.target=void\ root()
+comment7.params=
+comment7.target=void\ main()
+numComments=8

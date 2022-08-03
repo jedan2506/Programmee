@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=connec
+comment1.params=i3\ i4
+comment1.target=connec(int,\ int)
+comment2.params=
+comment2.target=void\ cal()
+numComments=3
